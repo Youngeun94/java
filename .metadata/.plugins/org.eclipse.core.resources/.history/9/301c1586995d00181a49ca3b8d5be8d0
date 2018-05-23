@@ -1,0 +1,14 @@
+package operator;
+
+public class OperatorEx_01 {
+	public static void main(String[] args) {
+		
+		int i = 10;
+		float f = 20.0f;
+		
+		float result = f + (float)i; //int i를 float로 형변환으로 피연산자의 타입을 일치
+		
+		System.out.println("float result : "+result);
+	}
+
+}

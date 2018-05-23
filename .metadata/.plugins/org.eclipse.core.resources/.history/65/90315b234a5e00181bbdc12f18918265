@@ -1,0 +1,17 @@
+package Variables;
+
+public class VariablesEx_09 {
+	public static void main(String[] args) {
+		
+		System.out.println('\''); // '
+		System.out.println("abc\t123\b456");// abc	12456
+		System.out.println('\n');// (°ø¹é&ÁÙ¹Ù²Þ)
+		System.out.println("\"Hello\"");// "Hello"
+		System.out.println("c:\\");// c:\
+		
+	}
+	
+// \t : tab, \b : backspace, \f : form feed, \n : new line, \r : carriage return
+		
+}		
+

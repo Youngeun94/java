@@ -1,0 +1,16 @@
+/* println : 변수의 값 그대로 출력, 줄바꿈o
+ * printf : 같은 값이라도 다른 형식으로 출력하고 싶을 때, 줄바꿈x (%n넣어줘야 줄바꿈)
+ * ex) 소수점 둘째자리까지만 출력; 정수를 16진수나 8진수로 출력
+ * 지시자(specifier) : %d(10진 정수), %b(boolean형식),%o(8진 정수), %x(16진 정수)
+ *                 : %f(부동 소수점), %e(지수), %s(문자열)
+ *                   ex) System.out.printf("age:%d",age);
+ *                       System.out.printf("age:%d year:%d", age, year);
+ */
+
+
+
+package Variables;
+
+public class VariablesEx_06 {
+
+}
